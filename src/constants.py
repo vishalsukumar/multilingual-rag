@@ -1,0 +1,6 @@
+DATA_DIR = "data"
+DOTENV_PATH = "config/.env"
+VECTOR_STORE_PATH = "./vector_store"
+MODEL_PROVIDER="openai"
+OPENAI_EMBEDDINGS_MODEL="text-embedding-3-large"
+OPENAI_LLM_MODEL="gpt-4o-mini"
